@@ -35,5 +35,6 @@ Applicability of the Task:
 • Web Development Learning: Improving knowledge of frontend design, user experience, and e-commerce workflows.
 
 OUTPUT:
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/320a1cdd-420a-4ea1-911a-ad346af73809" />
+<img width="1918" height="1077" alt="Image" src="https://github.com/user-attachments/assets/f8442777-4c6e-4e18-872d-dba98e0c7ee6" />
+
 <img width="1761" height="962" alt="Image" src="https://github.com/user-attachments/assets/197fee35-3672-4d27-9f4a-6c436534e245" />
